@@ -1,2 +1,3 @@
 Controlando versões com GIT e GITHUB
 Alterando arquivo
+Feito clone, alterando e upando de novo
